@@ -18,8 +18,8 @@ SHT21 SHT21;
 
 //WIFI
 
-const char ssid[] = "dd-wrt";      // your network SSID (name)
-const char password[] = "hahahaha"; // your network key
+const char ssid[] = "wifi";      // your network SSID (name)
+const char password[] = "pass"; // your network key
 
 
 //#####MQTT#######
